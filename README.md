@@ -1,4 +1,4 @@
-#Java Web Aplication
+# Java Web Aplication
 
 Application allows to view notes in a structed manner. All features are explained in a file called "Features".
 
